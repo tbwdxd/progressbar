@@ -1,4 +1,4 @@
-module github.com/schollz/progressbar/v3
+module github.com/tbwdxd/progressbar/v3
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
